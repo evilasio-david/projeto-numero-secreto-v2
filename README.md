@@ -45,12 +45,18 @@ O jogo "Número Secreto" é uma aplicação simples em JavaScript que desafia o 
 ## 🗂️ Estrutura do Projeto
 
 projeto-numero-secreto-v2/ 
-├── src/
+
+├ src/ 
+
 │    ├── app.js
+
 │    ├── index.html
+
 │    ├── style.css
+
 │    └── img/
-├── README.md
+
+├ README.md
 
 > A pasta `src/` contém todos os arquivos relacionados à aplicação. O `README.md` está na raiz e documenta o propósito e funcionamento do projeto.
 
@@ -85,3 +91,4 @@ Desenvolvedor em formação, explorando os fundamentos do versionamento e da col
 ## 🧭 Licença
 
 Este projeto é livre para fins educacionais e está sob a licença [MIT](https://opensource.org/licenses/MIT).
+
